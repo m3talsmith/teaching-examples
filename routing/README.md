@@ -83,4 +83,4 @@ router
   });
 ```
 
-Of course this is just a coarse sample. Imagine building an entire API with both approaches. Which would you rather come back to a month later when changes are needed?
+This is just a coarse sample. Imagine building an entire API with both approaches. Which would you rather come back to a month later when changes are needed?
